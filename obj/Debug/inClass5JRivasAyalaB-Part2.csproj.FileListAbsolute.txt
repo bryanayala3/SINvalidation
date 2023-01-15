@@ -1,0 +1,15 @@
+C:\PROG1925\inClass\inClass5JRivasAyalaB-Part2\bin\Debug\inClass5JRivasAyalaB-Part2.exe.config
+C:\PROG1925\inClass\inClass5JRivasAyalaB-Part2\bin\Debug\inClass5JRivasAyalaB-Part2.exe
+C:\PROG1925\inClass\inClass5JRivasAyalaB-Part2\bin\Debug\inClass5JRivasAyalaB-Part2.pdb
+C:\PROG1925\inClass\inClass5JRivasAyalaB-Part2\obj\Debug\inClass5JRivasAyalaB-Part2.csproj.AssemblyReference.cache
+C:\PROG1925\inClass\inClass5JRivasAyalaB-Part2\obj\Debug\inClass5JRivasAyalaB-Part2.csproj.CoreCompileInputs.cache
+C:\PROG1925\inClass\inClass5JRivasAyalaB-Part2\obj\Debug\inClass5JRivasAyalaB-Part2.exe
+C:\PROG1925\inClass\inClass5JRivasAyalaB-Part2\obj\Debug\inClass5JRivasAyalaB-Part2.pdb
+C:\PROG1925\inClass\InClass5RivasJAyalaB\inClass5JRivasAyalaB-Part2\bin\Debug\inClass5JRivasAyalaB-Part2.exe.config
+C:\PROG1925\inClass\InClass5RivasJAyalaB\inClass5JRivasAyalaB-Part2\bin\Debug\inClass5JRivasAyalaB-Part2.exe
+C:\PROG1925\inClass\InClass5RivasJAyalaB\inClass5JRivasAyalaB-Part2\bin\Debug\inClass5JRivasAyalaB-Part2.pdb
+C:\PROG1925\inClass\InClass5RivasJAyalaB\inClass5JRivasAyalaB-Part2\obj\Debug\inClass5JRivasAyalaB-Part2.csproj.AssemblyReference.cache
+C:\PROG1925\inClass\InClass5RivasJAyalaB\inClass5JRivasAyalaB-Part2\obj\Debug\inClass5JRivasAyalaB-Part2.csproj.SuggestedBindingRedirects.cache
+C:\PROG1925\inClass\InClass5RivasJAyalaB\inClass5JRivasAyalaB-Part2\obj\Debug\inClass5JRivasAyalaB-Part2.csproj.CoreCompileInputs.cache
+C:\PROG1925\inClass\InClass5RivasJAyalaB\inClass5JRivasAyalaB-Part2\obj\Debug\inClass5JRivasAyalaB-Part2.exe
+C:\PROG1925\inClass\InClass5RivasJAyalaB\inClass5JRivasAyalaB-Part2\obj\Debug\inClass5JRivasAyalaB-Part2.pdb
